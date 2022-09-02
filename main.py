@@ -1,6 +1,5 @@
 
 def count_batteries_by_usage(cycles):
-  dictionary.
     dict_battery={
         "lowCount":0,
         "mediumCount":0,
