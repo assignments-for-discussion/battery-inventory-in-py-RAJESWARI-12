@@ -4,7 +4,7 @@ def count_batteries_by_usage(cycles):
     lowCount+=1
   elif cycles>400 and cycles<919:
     mediumCount+=1
-  else
+  else:
     highCount+=1
   return {
     "lowCount": 0,
